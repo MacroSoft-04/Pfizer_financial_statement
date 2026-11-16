@@ -1,0 +1,4 @@
+| Source                                | What it is                               | Use it for                                            |
+| ------------------------------------- | ---------------------------------------- | ----------------------------------------------------- |
+| **SEC EDGAR XBRL API**                | Official 10-K/10-Q numbers, free, no key | Revenue, COGS, net income, EPS, dividends (10+ years) |
+| **yfinance** (`pip install yfinance`) | Yahoo data, unofficial                   | Share price history (needed for P/E and yield)        |
